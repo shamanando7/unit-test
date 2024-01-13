@@ -1,0 +1,11 @@
+************* Module program
+program.py:21:0: C0305: Trailing newlines (trailing-newlines)
+program.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+program.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+program.py:6:4: C0116: Missing function or method docstring (missing-function-docstring)
+program.py:11:4: C0116: Missing function or method docstring (missing-function-docstring)
+program.py:15:8: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 6.25/10 (previous run: 6.25/10, +0.00)
+
